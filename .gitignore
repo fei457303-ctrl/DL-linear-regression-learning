@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 本地编辑器配置和导出的临时预览
+.vscode/
+.idea/
+*.nbconvert.html

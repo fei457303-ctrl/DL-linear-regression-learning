@@ -1,4 +1,6 @@
 # 本次运行使用 Python 3.13.9，PyTorch 为 2.14.1+cpu。
+# 安装：python -m pip install -r requirements.txt
+# torch、numpy、matplotlib 用于实验，其余依赖用于打开和执行 Notebook。
 torch==2.14.1
 numpy==2.5.2
 matplotlib==3.11.2
